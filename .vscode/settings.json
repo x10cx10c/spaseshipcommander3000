@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "raylib.h": "c",
+    "screens.h": "c",
+    "gp_space.h": "c",
+    "meteor.h": "c",
+    "drawingengine.h": "c",
+    "interface.h": "c"
+  },
+  "liveServer.settings.port": 5501
+}
